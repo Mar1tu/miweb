@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 psicologa y profrsora
+=======
+Profesora
+de psicologia
+egresada hace un año
+>>>>>>> ramab
